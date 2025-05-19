@@ -20,7 +20,7 @@ function Roadmap() {
                     <h3>Sign UP</h3>
                     <span>P1</span>
                   </div>
-                  <p>Start your trading journey with BFS Pro Market. Create your free account to access secure crypto, forex, and stock trading tools. Fast signup. No hidden fees.</p>
+                  <p>Start your trading journey with TM9FX. Create your free account to access secure crypto, forex, and stock trading tools. Fast signup. No hidden fees.</p>
                 </div>
               </div>
 
@@ -35,7 +35,7 @@ function Roadmap() {
                     <h3>Sign In</h3>
                     <span>P2</span>
                   </div>
-                  <p>Securely log in to your BFS Pro Market account to manage your crypto, forex, FBS, and stock trades. Fast, reliable, and safe user access.</p>
+                  <p>Securely log in to your TM9FX account to manage your crypto, forex, FBS, and stock trades. Fast, reliable, and safe user access.</p>
                 </div>
               </div>
 
@@ -49,7 +49,7 @@ function Roadmap() {
                     <h3>Real Trading Account</h3>
                     <span>P3</span>
                   </div>
-                  <p>Open a real trading account on BFS Pro Market. Set your trading and investor passwords to start live forex, crypto, FBS, and stock trading.</p>
+                  <p>Open a real trading account on TM9FX. Set your trading and investor passwords to start live forex, crypto, FBS, and stock trading.</p>
                 </div>
               </div>
             </div>
@@ -63,7 +63,7 @@ function Roadmap() {
                     <h3>Deposit</h3>
                     <span>P4</span>
                   </div>
-                  <p>Easily fund your BFS Pro Market account via manual deposit or instant card payment. Start trading crypto, forex, FBS & stocks with flexible funding options.</p>
+                  <p>Easily fund yourTM9FX account via manual deposit or instant card payment. Start trading crypto, forex, FBS & stocks with flexible funding options.</p>
                 </div>
               </div>
 
@@ -77,7 +77,7 @@ function Roadmap() {
                     <h3>Start Trading</h3>
                     <span>P5</span>
                   </div>
-                  <p>Begin live trading on BFS Pro Market. Access real-time charts, place buy/sell orders, and manage your portfolio across crypto, forex, stocks, and FBS markets.</p>
+                  <p>Begin live trading on TM9FX. Access real-time charts, place buy/sell orders, and manage your portfolio across crypto, forex, stocks, and FBS markets.</p>
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@ function Roadmap() {
                     <h3>WithDraw</h3>
                     <span>P6</span>
                   </div>
-                  <p>Withdraw your profits from BFS Pro Market easily. Submit a withdrawal request and receive funds securely within 6 to 24 hours.</p>
+                  <p>Withdraw your profits from TM9FX easily. Submit a withdrawal request and receive funds securely within 6 to 24 hours.</p>
                 </div>
               </div>
 
