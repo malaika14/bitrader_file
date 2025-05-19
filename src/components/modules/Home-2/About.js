@@ -59,7 +59,7 @@ const About = () => {
             <div className="about__thumb about__thumb--style2" data-aos="fade-left" data-aos-duration="800">
               <div className="about__thumb-inner mt-30 mt-lg-0">
                 <div className="about__thumb-image  text-center">
-                  <img src="/images/about/3.png" alt="about-image" className="dark"/>
+                  <img src="/images/about/home3/s2.png" alt="about-image" className="dark"/>
                 </div>
               </div>
             </div>
