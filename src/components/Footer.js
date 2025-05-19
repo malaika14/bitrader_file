@@ -110,7 +110,7 @@ function Footer() {
               <div className="footer__end">
                 <div className="footer__end-copyright">
                   <p className=" mb-0">© 2024 All Rights Reserved By <Link href="https://themeforest.net/user/thetork/portfolio"
-                    target="_blank">FBSProMarket</Link> </p>
+                    target="_blank">TM9FX</Link> </p>
                 </div>
                 <div>
                   <ul className="social">
