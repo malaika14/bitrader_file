@@ -345,7 +345,7 @@ useEffect(() => {
                     <li className="menu-item-has-children">
                       <Link href="/services" onClick={toggleActive}>Trading Platforms</Link>
                       <ul className="submenu">
-                        <li><Link href="/services">Services</Link></li>
+                        <li><Link href="/services">Services </Link></li>
                         <li><Link href="/service-details">Services Details</Link></li>
                       </ul>
                     </li>
