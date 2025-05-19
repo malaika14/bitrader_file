@@ -18,8 +18,8 @@ const Pricing = ()=>{
     
                       {/* <!-- pricing top part --> */}
                       <div className="pricing__item-top">
-                        <h6 className="mb-15">Basic</h6>
-                        <h3 className="mb-25">$99/<span>Monthly</span> </h3>
+                        <h6 className="mb-15">Standard</h6>
+                        <h3 className="mb-25">$50/<span></span> </h3>
                       </div>
     
                       {/* <!-- pricing middle part --> */}
@@ -27,23 +27,21 @@ const Pricing = ()=>{
                         <ul className="pricing__list">
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            Weekly online meeting</li>
+                            Minimal Initial Deposit 10$</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            Unlimited learning access</li>
+                            Spread 0.30</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            24/7 technical support</li>
-                          <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
-                                className="dark"/></span>
-                            Personal training</li>
+                            Comission 00</li>
+                         
                         </ul>
     
                       </div>
     
                       {/* <!-- pricing bottom part --> */}
                       <div className="pricing__item-bottom">
-                        <Link href="signup" className="trk-btn trk-btn--outline">Choose Plan</Link>
+                        <Link href="signup" className="trk-btn trk-btn--outline">Continue</Link>
                       </div>
                     </div>
                   </div>
@@ -56,8 +54,8 @@ const Pricing = ()=>{
     
                       {/* <!-- pricing top part --> */}
                       <div className="pricing__item-top">
-                        <h6 className="mb-15">standard</h6>
-                        <h3 className="mb-25">$149/<span>Monthly</span> </h3>
+                        <h6 className="mb-15">PRO</h6>
+                        <h3 className="mb-25">$500/<span></span> </h3>
                       </div>
     
                       {/* <!-- pricing middle part --> */}
@@ -65,26 +63,21 @@ const Pricing = ()=>{
                         <ul className="pricing__list">
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            Weekly online meeting</li>
+                            Minimal Initial Deposit 500$</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            Unlimited learning access</li>
+                            Spread 0.20</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            24/7 technical support</li>
-                          <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
-                                className="dark"/></span>
-                            Personal training</li>
-                          <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
-                                className="dark"/></span>
-                            Business analysis</li>
+                            Commission</li>
+                          
                         </ul>
     
                       </div>
     
                       {/* <!-- pricing bottom part --> */}
                       <div className="pricing__item-bottom">
-                        <Link href="signup" className="trk-btn trk-btn--outline active">Choose Plan</Link>
+                        <Link href="signup" className="trk-btn trk-btn--outline active">Continue</Link>
                       </div>
                     </div>
                   </div>
@@ -97,8 +90,8 @@ const Pricing = ()=>{
     
                       {/* <!-- pricing top part --> */}
                       <div className="pricing__item-top">
-                        <h6 className="mb-15">premium</h6>
-                        <h3 className="mb-25">$199/<span>Monthly</span> </h3>
+                        <h6 className="mb-15">ECN</h6>
+                        <h3 className="mb-25">$1000/<span></span> </h3>
                       </div>
     
                       {/* <!-- pricing middle part --> */}
@@ -106,23 +99,21 @@ const Pricing = ()=>{
                         <ul className="pricing__list">
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            With all standard features</li>
+                            Minimal Initial Deposit 1000$</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            Unlimited learning access</li>
+                            Spread 0.10</li>
                           <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
                                 className="dark"/></span>
-                            24/7 technical support</li>
-                          <li className="pricing__list-item"><span><img src="/images/icon/check.svg" alt="check"
-                                className="dark"/></span>
-                            Personal training</li>
+                            Commission 00</li>
+                          
                         </ul>
     
                       </div>
     
                       {/* <!-- pricing bottom part --> */}
                       <div className="pricing__item-bottom">
-                        <Link href="signup" className="trk-btn trk-btn--outline">Choose Plan</Link>
+                        <Link href="signup" className="trk-btn trk-btn--outline">Continue</Link>
                       </div>
                     </div>
                   </div>

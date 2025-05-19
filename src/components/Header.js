@@ -190,7 +190,7 @@ useEffect(() => {
               <div className="menu-area">
                   <ul id="menu" className={ `menu menu--style1 ${menu ? 'active' : ''}`}>
                     <li className="megamenu menu-item-has-children">
-                      <Link scroll={false} href="/#0" onClick={toggleActive}>Demos </Link>
+                      <Link scroll={false} href="/#0" onClick={toggleActive}>Home</Link>
 
                       
                   <ul className="submenu">
@@ -407,7 +407,7 @@ useEffect(() => {
                               <div className="home-showcase__image">
                                 <img src="images/demo/new.png" alt="home-showcase" />
                               </div>
-                              <h3 className="home-showcase__title"> <Link scroll={false} href="/#0">New Demos</Link>
+                              <h3 className="home-showcase__title"> <Link scroll={false} href="/#0">Home</Link>
                               </h3>
                             </div>
                           </div>
@@ -417,37 +417,19 @@ useEffect(() => {
                   </ul>
                 </li>
                     <li className="menu-item-has-children">
-                      <Link href="/services" onClick={toggleActive}>Services</Link>
+                      <Link href="/services" onClick={toggleActive}>Trading Platforms</Link>
                       <ul className="submenu">
                         <li><Link href="/services">Services</Link></li>
                         <li><Link href="/service-details">Services Details</Link></li>
                       </ul>
                     </li>
-                    <li className="menu-item-has-children">
-                      <Link scroll={false} href="/#0" onClick={toggleActive}>About</Link>
-                      <ul className="submenu">
-                        <li><Link href="/about">About Us</Link></li>
-                        <li><Link href="/price">Price</Link></li>
-                        <li><Link href="/team">Team</Link></li>
-                        <li><Link href="/team-2">Team 2</Link></li>
-                        <li><Link href="/team-details">Team Details</Link></li>
-                      </ul>
-                    </li>
+                    
+                      <Link scroll={false} href="/#0" onClick={toggleActive}>About Us</Link>
+                      
 
                     <li className="menu-item-has-children">
-                      <Link scroll={false} href="/#0" onClick={toggleActive}>Pages</Link>
-                      <ul className="submenu">
-                        <li><Link href="blogs">Blogs</Link></li>
-                        <li><Link href="blog-sidebar">Blog - Side Bar</Link></li>
-                        <li><Link href="blog-details">Blog Details</Link></li>
-                        <li><Link href="signup">Sign Up</Link></li>
-                        <li><Link href="signup-2">Sign Up 2</Link></li>
-                        <li><Link href="signin">Sign In</Link></li>
-                        <li><Link href="signin-2">Sign In 2</Link></li>
-                        <li><Link href="forgot-pass">Reset Password</Link></li>
-                        <li><Link href="forgot-pass-2">Reset Password 2</Link></li>
-                        <li><Link href="404">404 Error</Link></li>
-                      </ul>
+                      <Link scroll={false} href="/#0" onClick={toggleActive}>Faq</Link>
+                     
 
                     </li>
                     <li>

@@ -17,12 +17,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>project research</h3>
+                    <h3>Sign UP</h3>
                     <span>P1</span>
                   </div>
-                  <p>Project research is the backbone of any successful project. It involves gathering information,
-                    setting objectives, and analyzing data to ensure the project is achievable. Without proper research,
-                    projects can fail due to lack of knowledge.</p>
+                  <p>Start your trading journey with BFS Pro Market. Create your free account to access secure crypto, forex, and stock trading tools. Fast signup. No hidden fees.</p>
                 </div>
               </div>
 
@@ -34,12 +32,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>framing idea</h3>
+                    <h3>Sign In</h3>
                     <span>P2</span>
                   </div>
-                  <p>Hey there! Just wanted to throw out a framing idea for our upcoming project. Let's start with the
-                    big picture and then work our way down to the details. This way we ensure our vision stays on track
-                    while also ironing out.</p>
+                  <p>Securely log in to your BFS Pro Market account to manage your crypto, forex, FBS, and stock trades. Fast, reliable, and safe user access.</p>
                 </div>
               </div>
 
@@ -50,12 +46,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>Design first draft</h3>
+                    <h3>Real Trading Account</h3>
                     <span>P3</span>
                   </div>
-                  <p>Hey guys, just wanted to share my design first draft! I went for a minimalist look with a pop of
-                    color. What do you think? Open to any suggestions or feedback. Can't wait to see how this turns out
-                    over all kind of success!</p>
+                  <p>Open a real trading account on BFS Pro Market. Set your trading and investor passwords to start live forex, crypto, FBS, and stock trading.</p>
                 </div>
               </div>
             </div>
@@ -66,12 +60,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>Final design</h3>
+                    <h3>Deposit</h3>
                     <span>P4</span>
                   </div>
-                  <p>So after lots of reiterations, and endless tweaking, we finally landed on the final design. It's
-                    slick, it's modern, and it perfectly captures the essence of what we were aiming for. We couldn't be
-                    more excited to launch it!</p>
+                  <p>Easily fund your BFS Pro Market account via manual deposit or instant card payment. Start trading crypto, forex, FBS & stocks with flexible funding options.</p>
                 </div>
               </div>
 
@@ -82,12 +74,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>Project development</h3>
+                    <h3>Start Trading</h3>
                     <span>P5</span>
                   </div>
-                  <p>So we're deep in project development here, and things are coming along nicely. We've got a solid
-                    plan in place and our team is firing on all cylinders. There's still work to be done, but we're
-                    excited about what we're building.</p>
+                  <p>Begin live trading on BFS Pro Market. Access real-time charts, place buy/sell orders, and manage your portfolio across crypto, forex, stocks, and FBS markets.</p>
                 </div>
               </div>
             </div>
@@ -98,12 +88,10 @@ function Roadmap() {
               <div className="roadmap__item-inner">
                 <div className="roadmap__item-content">
                   <div className="roadmap__item-header">
-                    <h3>Launch project</h3>
+                    <h3>WithDraw</h3>
                     <span>P6</span>
                   </div>
-                  <p>Alright folks, it's time to get this project off the ground! We've been talking about it for weeks,
-                    and now it's time to launch. We've got all the pieces in place, so let's get to work and make this
-                    thing happen!</p>
+                  <p>Withdraw your profits from BFS Pro Market easily. Submit a withdrawal request and receive funds securely within 6 to 24 hours.</p>
                 </div>
               </div>
 
