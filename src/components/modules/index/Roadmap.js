@@ -77,7 +77,7 @@ function Roadmap() {
                     <h3>Start Trading</h3>
                     <span>P5</span>
                   </div>
-                  <p>Begin live trading on TM9FX. Access real-time charts, place buy/sell orders, and manage your portfolio across crypto, forex, stocks, and FBS markets.</p>
+                  <p>Begin live trading on TM9fx. Access real-time charts, place buy/sell orders, and manage your portfolio across crypto, forex, stocks, and FBS markets.</p>
                 </div>
               </div>
             </div>
